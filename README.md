@@ -32,7 +32,7 @@ Interactive slicers for dynamic insights
 Example Insight:
 Supermarket Type1 generates the highest sales and item volume.
 
-📸 Dashboard Preview []
+📸 Dashboard Preview [https://github.com/reddybabu-data-analyst/Blinkit-dashboard/blob/main/Blinkit%20Dashboard.png]
 
 👤 Author
 
